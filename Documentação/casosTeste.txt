@@ -1,0 +1,69 @@
+7.1. Gerenciamento de Usuários (Admin)
+Obter todos os usuários (Admin)
+
+Obter usuário por ID (Admin)
+
+Tentar obter todos os usuários (Não Admin)
+
+Atualizar usuário por ID (Admin)
+
+Excluir usuário por ID (Admin)
+
+7.2. Gerenciamento de Filmes (Admin)
+Criar novo filme (Admin)
+
+Atualizar filme por ID (Admin)
+
+Excluir filme por ID (Admin)
+
+Tentar criar filme (Não Admin)
+
+7.3. Gerenciamento de Teatros (Admin)
+Criar novo teatro (Admin)
+
+Atualizar teatro por ID (Admin)
+
+Excluir teatro por ID (Admin)
+
+Tentar criar teatro (Não Admin)
+
+7.4. Gerenciamento de Sessões (Admin)
+Criar nova sessão (Admin)
+
+Atualizar sessão por ID (Admin)
+
+Excluir sessão por ID (Admin)
+
+Tentar criar sessão (Não Admin)
+
+7.5. Gerenciamento de Reservas (Admin)
+Obter todas as reservas (Admin)
+
+Obter reserva por ID (Admin)
+
+Atualizar status de reserva por ID (Admin)
+
+Excluir reserva por ID (Admin)
+
+Tentar obter todas as reservas (Não Admin)
+
+Tentar atualizar status de reserva (Não Admin)
+
+Tentar excluir reserva (Não Admin)
+
+7.6. Testes de Autorização (Admin vs. Usuário Padrão)
+Acesso Admin a rota de criação (Filme)
+
+Acesso Usuário Padrão a rota de criação (Filme)
+
+Acesso Admin a rota de atualização (Teatro)
+
+Acesso Usuário Padrão a rota de atualização (Teatro)
+
+Acesso Admin a rota de exclusão (Sessão)
+
+Acesso Usuário Padrão a rota de exclusão (Sessão)
+
+Acesso Admin a rota de todas as reservas
+
+Acesso Usuário Padrão a rota de todas as reservas
